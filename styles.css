@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url(hawaii.JPG);
+    background-repeat: no-repeat;
+    background-size: 75%;
+    height: 500px;
+}
+h1{
+    color: purple;
+}
+.navbar-light .navbar-brand{
+    color:purple
+}
+p{
+    color: purple
+}
